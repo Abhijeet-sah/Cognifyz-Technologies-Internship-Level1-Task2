@@ -2,7 +2,7 @@
 
 # 🍽️ Restaurant Data Analysis
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on a restaurant dataset. The goal is to gain insights into restaurant distributions across cities, cuisines, and countries, while also calculating important statistical measures for numerical attributes.
 
@@ -16,14 +16,14 @@ This project performs Exploratory Data Analysis (EDA) on a restaurant dataset. T
 
 •Basic statistics (mean, median, standard deviation, etc.) of numerical columns
 
-📊 Features & Analysis
+# 📊 Features & Analysis
 
 Basic Statistical Measures
 
 •Mean, Median, Standard Deviation of numerical columns (like ratings, votes, etc.).
 
 
-Categorical Variable Exploration
+# Categorical Variable Exploration
 
 •Distribution of Country Code
 
@@ -32,14 +32,14 @@ Categorical Variable Exploration
 •Distribution of Cuisines
 
 
-Top Categories
+# Top Categories
 
 •Top 10 Cuisines with the highest number of restaurants
 
 •Top 10 Cities with the most restaurants
 
 
-Visualizations
+# Visualizations
 
 Bar charts for city and cuisine counts
 
@@ -48,7 +48,7 @@ Count plots for country distribution
 Clean and future-proof plots (Seaborn ≥0.14)
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 •Python 🐍
 
@@ -60,7 +60,7 @@ Clean and future-proof plots (Seaborn ≥0.14)
 
 •Jupyter Notebook → Interactive analysis
 
-📂 Project Structure
+# 📂 Project Structure
 
 Restaurant-Data-Analysis/
 │
@@ -70,7 +70,7 @@ Restaurant-Data-Analysis/
 └── requirements.txt          # Python dependencies
 
 
-📈 Sample Visualizations
+# 📈 Sample Visualizations
 
 🔹 Top 10 Cities with Most Restaurants
 
@@ -87,7 +87,7 @@ Restaurant-Data-Analysis/
 <img width="860" height="556" alt="country codes" src="https://github.com/user-attachments/assets/947577d8-bca6-44b0-a9f7-d8876094dc97" />
 
 
-✅ Results & Insights
+# ✅ Results & Insights
 
 Most popular cuisines were identified (e.g., North Indian, Chinese, etc.).
 
@@ -98,7 +98,7 @@ Country distribution revealed which countries have the largest restaurant presen
 Statistical analysis highlighted average ratings and votes trends.
 
 
-📌 Future Improvements
+# 📌 Future Improvements
 
 Add interactive visualizations using Plotly/Dash.
 
@@ -107,11 +107,11 @@ Perform correlation analysis between ratings, votes, and cuisines.
 Build a predictive model for restaurant ratings.
 
 
-🙌 Acknowledgements
+# 🙌 Acknowledgements
 
 Dataset source: Zomato Restaurant Data (sample dataset)
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 
-✨ Author: # Abhijeet Sah
+# ✨ Author: Abhijeet Sah
